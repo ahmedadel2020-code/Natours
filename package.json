@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedadel2020-code/Natours.git"
+  },
+  "author": "Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedadel2020-code/Natours/issues"
+  },
+  "homepage": "https://github.com/ahmedadel2020-code/Natours#readme",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
