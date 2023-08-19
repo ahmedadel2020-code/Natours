@@ -12,4 +12,4 @@
 
 ### Screenshot
 
-![](./img/Screenshot.jpg)
+![](./img/screenshot.jpg)
